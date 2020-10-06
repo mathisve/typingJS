@@ -7,7 +7,7 @@ async function main() {
   "go test",
   "mkdir target",
   "go build -o target/main main.go",
-    "this is a really long sentence! Look at it my dude! It wraps all the way around making the text box seem bigger!",
+  "this is a really long sentence! Look at it my dude! It wraps all the way around making the text box seem bigger!",
   'echo "target" > .gitignore',
   "git status",
   "git add .",
