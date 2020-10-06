@@ -1,0 +1,55 @@
+.mono {
+  font-family: monospace;
+  font-size: 20px;
+  letter-spacing: -.4px;
+  line-height: 200%;
+}
+
+.typing_container {
+  background-color: #002B36;
+  height: 100%;
+  border-radius: 10px;
+  overflow: auto;
+  box-shadow: 5px 5px 10px #888888;
+}
+
+.cmd_sign {
+  float:left;
+  margin-right: 10px;
+  margin-left: 7px;
+  margin-top: 8px;
+  color: #4E9A06;
+}
+
+.text_bar {
+  color: #839496;
+  float: left;
+  margin-top: 9.5px;
+  font-size: 28px;
+}
+
+.typing_sign {
+  margin-left: 0;
+  float:left;
+  overflow: hidden;
+  color: #839496;
+  margin-top: 8px;
+  font-size: 30px;
+}
+
+#green {
+  margin-left: 0;
+  margin-right: 0;
+  color: #4E9A06;
+}
+
+#grey {
+  margin-left: 0;
+  margin-right: 0;
+  color: #839496;
+}
+#blue {
+  margin-left: 0;
+  margin-right: 0;
+  color: #729FCF;
+}
